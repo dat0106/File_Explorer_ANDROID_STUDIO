@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:dither="true"
+    android:src="@drawable/bg_menubg_select"
+    android:tileMode="repeat" />
+<!-- From: file:/G:/android/android%20demo/File_Explorer1/app/src/main/res/drawable/menu_selected_tile_bg.xml -->

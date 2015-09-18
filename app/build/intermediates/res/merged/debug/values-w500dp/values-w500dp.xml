@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/G:/android/android%20demo/File_Explorer1/app/src/main/res/values-w500dp/abs__dimens.xml -->
+    <eat-comment/>
+    <integer name="abs__max_action_buttons">4</integer>
+</resources>
